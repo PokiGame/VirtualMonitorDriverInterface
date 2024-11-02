@@ -1,4 +1,4 @@
-# VirtualMonitorDriverInterface
+# Virtual Monitor Driver Interface
  
 This interface was writen for driver https://github.com/itsmikethetech/Virtual-Display-Driver?tab=readme-ov-file writen by itsmikethetech.
 I just create an interface who was easy* to use with this driver.
